@@ -1,8 +1,10 @@
+import './App.css'
+
 
 function App() {
   return (
     <div>
-      <section>
+      <section className="hero">
         <h1>Kelton Gardner</h1>
         <p>Full-stack software developer currently studying at Grand Canyon University</p>
       </section>
