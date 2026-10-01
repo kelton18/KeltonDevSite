@@ -8,7 +8,7 @@ function App() {
         <h1>Kelton Gardner</h1>
         <p>Full-stack software developer currently studying at Grand Canyon University</p>
       </section>
-      <footer>
+      <footer className='footer'>
         <a href='https://github.com/kelton18' target='_blank' rel='noopener noreferrer'>
           GitHub
         </a>
